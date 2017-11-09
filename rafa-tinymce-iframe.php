@@ -1,11 +1,11 @@
 <?php
 /**
-	Plugin Name: TinyMCE Iframe
-	Plugin URI: 
+	Plugin Name: Rafa TinyMCE Iframe
+	Plugin URI: https://br.wordpress.org/plugins/rafa-tinymce-iframe/
 	Description: Create button with shortcode for iframe in WordPress
 	Author: Rafael Paulino
-	Version: 0.0.1
-	Author URI: http://rafaacademy.com
+	Version: 1.0.0
+	Author URI: https://rafaacademy.com
 */
 
 
